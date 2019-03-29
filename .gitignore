@@ -1,0 +1,15 @@
+/.idea/
+.DS_Store
+.htaccess
+/cache/*
+!/cache/index.html
+!/administator/cache/index.html
+/administator/cache/*
+/administrator/components/com_akeeba/backup/*
+!/administator/logs/index.html
+/administator/logs/*
+!/tmp/index.html
+/tmp/*
+/configuration.php
+/images/*
+!/images/index.html
